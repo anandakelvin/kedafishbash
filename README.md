@@ -1,3 +1,3 @@
 # kedafishbash
 
-run test cases menggunakan "jest" pada clie
+run test cases menggunakan "jest" pada cli
